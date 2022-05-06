@@ -1,11 +1,11 @@
-import React from 'react'
-import {CardReportTop} from "./CardReportTop"
+import React from "react"
+import {Cardtop} from "./Cardtop.jsx"
 import "../styles/CardReport.css"
 
 function CardReport() {
   return (
     <div className='Cardreport'>
-      <CardReportTop/>
+      <Cardtop/>
     
     <div className='bottom'>
       <span>Daily</span>

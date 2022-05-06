@@ -1,7 +1,7 @@
 import React from 'react'
 import cara from "../images/image-jeremy.png"
-import "../styles/CardReportTop.css"
-function CardReportTop() {
+import "../styles/Cardtop.css"
+function Cardtop() {
   return (
    <div className='reporttop'>
       
@@ -16,4 +16,4 @@ function CardReportTop() {
   )
 }
 
-export {CardReportTop}
+export {Cardtop}
